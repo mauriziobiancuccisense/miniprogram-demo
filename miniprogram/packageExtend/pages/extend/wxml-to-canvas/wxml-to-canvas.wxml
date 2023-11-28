@@ -5,7 +5,6 @@
   <button type="primary" bindtap="extraImage">导出图片</button>
   <view style="margin: 5px">canvas</view>
   <view class="center">
-  <wxml-to-canvas class="widget" height="200" width="200" ></wxml-to-canvas>
   </view>
   <view style="margin: 5px">图片</view>
   <image wx:id="{{src}}" src="{{src}}" style="width: {{width}}px; height: {{height}}px"></image>

@@ -11,10 +11,6 @@
     autoplay 
     enable-play-gesture
   >
-    <barrage 
-      class="barrage" 
-      wx:if="{{toggle}}"
-    ></barrage>
   </video>
   <button type="primary" bind:tap="handleOpenClick">开启弹幕</button>
   <button type="primary" bind:tap="handleCloseClick">关闭弹幕</button>

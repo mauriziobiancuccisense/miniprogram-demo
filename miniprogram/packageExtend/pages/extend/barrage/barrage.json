@@ -1,8 +1,5 @@
 {
   "disableScroll": true,
 
-  "navigationBarTitleText": "barrage",
-  "usingComponents": {
-    "barrage": "miniprogram-barrage"
-  }
+  "navigationBarTitleText": "barrage"
 }
